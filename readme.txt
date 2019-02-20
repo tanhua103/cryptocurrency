@@ -9,3 +9,4 @@ add the 4 line in 15:20 from remote on master
 add the 2 line in 11:22
 
 add the 3 line in 11:26 on remote git newdev branch
+add the 4 line in 17:08 on remote  newdev 
